@@ -65,6 +65,16 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
 
 <h2 align="center">🛠️ Language Usage</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisensandeepa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Language Percentages" />
-</p>
+<div align="left">
+  <table width="100%">
+    <tr>
+      <td width="76.8%" bgcolor="#00b4ab"></td> <td width="11.2%" bgcolor="#e34c26"></td> <td width="8.5%" bgcolor="#563d7c"></td>  <td width="3.5%" bgcolor="#f1e05a"></td>  </tr>
+  </table>
+
+  <p>
+    <img src="https://img.shields.io/badge/Dart-76.8%25-00b4ab?style=flat-square&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-11.2%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-8.5%25-563d7c?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-3.5%25-f1e05a?style=flat-square&logo=javascript&logoColor=black" />
+  </p>
+</div>
