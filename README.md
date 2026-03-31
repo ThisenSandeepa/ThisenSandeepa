@@ -63,7 +63,7 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
 
 ---
 
-### 🛠️ Language Usage
+<h2 align="center">🛠️ Language Usage</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisensandeepa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Language Percentages" />
