@@ -66,7 +66,7 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
 <h2 align="center">🛠️ Language Usage</h2>
 
 <p align="left">
-  <img src="https://geps.dev/bin/geps?top_color=00b4ab&bottom_color=e34c26&left_id=dart&right_id=html5" alt="Language Bar" width="100%" height="20px" />
+  <img src="https://geps.dev/bin/geps?top_color=00b4ab&bottom_color=e34c26&left_id=dart&right_id=html5"  width="100%" height="30px" />
 </p>
 
 <p align="left">
