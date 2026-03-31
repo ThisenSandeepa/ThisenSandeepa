@@ -65,16 +65,27 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
 
 <h2 align="center">🛠️ Language Usage</h2>
 
-<div align="left">
-  <table width="100%">
-    <tr>
-      <td width="76.8%" bgcolor="#00b4ab"></td> <td width="11.2%" bgcolor="#e34c26"></td> <td width="8.5%" bgcolor="#563d7c"></td>  <td width="3.5%" bgcolor="#f1e05a"></td>  </tr>
-  </table>
+<p align="left">
+  <img src="https://geps.dev/bin/geps?top_color=00b4ab&bottom_color=e34c26&left_id=dart&right_id=html5" alt="Language Bar" width="100%" height="20px" />
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Dart-76.8%25-00b4ab?style=flat-square&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-11.2%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-8.5%25-563d7c?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-3.5%25-f1e05a?style=flat-square&logo=javascript&logoColor=black" />
-  </p>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-76.8%25-00b4ab?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-47.7%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Fluent-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-91.4%25-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-44.0%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-5.4%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-4.1%25-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-2.4%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batchfile-1.3%25-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1.6%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-0.6%25-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Data-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Core-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+---
