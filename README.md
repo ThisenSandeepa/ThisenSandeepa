@@ -63,3 +63,16 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
 
 ---
 
+<h2 align="center">🛠️ Language Usage </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisenSandeepa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" alt="Thisen's Language Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisenSandeepa&theme=tokyonight&hide_border=true&layout=donut-vertical" width="300" alt="Language Percentages" />
+</p>
+
+---
+---
+
