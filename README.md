@@ -65,11 +65,8 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
 
 <h2 align="center">🛠️ Language Usage</h2>
 
-<p align="left">
-  <img src="https://geps.dev/bin/geps?top_color=00b4ab&bottom_color=e34c26&left_id=dart&right_id=html5"  width="100%" height="30px" />
-</p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Dart-76.8%25-00b4ab?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-47.7%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
