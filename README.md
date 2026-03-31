@@ -49,7 +49,7 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
 * 🧠 Machine Learning
 * 🛡️ Cyber Security
 
----
+
 
 <h2 align="center">📊 GitHub Current Status</h2>
 
@@ -61,7 +61,7 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisenSandeepa&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
----
+
 
 <h2 align="center">🛠️ Language Usage</h2>
 
