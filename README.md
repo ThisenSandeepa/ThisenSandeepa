@@ -49,3 +49,20 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
 * 🧠 Machine Learning
 * 🛡️ Cyber Security
 
+---
+
+## 📊 GitHub Current Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisean-sandeepa&show_icons=true&theme=tokyonight&hide_border=true" alt="Thisen's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisean-sandeepa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisean-sandeepa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+  
+
