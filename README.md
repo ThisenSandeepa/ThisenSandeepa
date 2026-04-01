@@ -85,4 +85,4 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
   <img src="https://img.shields.io/badge/Java-Core-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-
+---
