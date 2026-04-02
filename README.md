@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Thisen Bandara
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=6C63FF&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;Flutter+Developer;UI%2FUX+Designer;+Driven+Thinker;Cyber+Security+Learner;Digital+Marketing+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Flutter+Developer" />
 </p>
 
 🎓 **Computer Science Undergraduate**
