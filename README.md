@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Thisen Bandara
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=6C63FF&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;Flutter+Developer;UI%2FUX+Designer;+Driven+Thinker;Cyber+Security+Learner;Digital+Marketing+Explorer" />
+</p>
+
 🎓 **Computer Science Undergraduate**
 🚀 **Building skills, projects, and consistency one commit at a time**
 
