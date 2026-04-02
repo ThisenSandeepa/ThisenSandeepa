@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Thisen Bandara
+👋 Hi there, I'm Thisen Bandara
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=6C63FF&center=false&vCenter=false&width=700&lines=Computer+Science+Student;Software+Developer;AI+Enthusiast;Web+Technologies;Flutter+Developer" />
