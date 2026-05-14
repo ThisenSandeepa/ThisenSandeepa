@@ -89,4 +89,21 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
   <img src="https://img.shields.io/badge/Java-Core-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION SNAKE ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakashwije/aakashwije/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aakashwije/aakashwije/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/aakashwije/aakashwije/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+
+
+---
 
