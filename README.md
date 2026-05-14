@@ -93,7 +93,8 @@ I'm a curious and motivated CS student who enjoys turning ideas into practical, 
 <!--                     CONTRIBUTION SNAKE ANIMATION                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
   <picture>
